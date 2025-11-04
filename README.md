@@ -17,4 +17,4 @@ Another terminal `python Ap.py` to run python file
 
 Another terminal `node server.js` to run node js
 
-
+![image alt](https://github.com/aneenaet004/IoT-Based-Crop-Recommendation-System-Using-Random-Forest/blob/main/WhatsApp%20Image%202025-05-30%20at%2010.14.20%20PM.jpeg?raw=true)
