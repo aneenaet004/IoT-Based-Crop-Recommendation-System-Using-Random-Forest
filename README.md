@@ -10,6 +10,7 @@ install packages in arduino IDE
  `#include <SoftwareSerial.h>`
 close the serial port when running node js
 
+Create React App npx create-react-app crop-recommendation npm start to run react
 
 install packages in Ap.py file `pip install -r requirments.txt `                                 \
 Another terminal `python Ap.py` to run python file
