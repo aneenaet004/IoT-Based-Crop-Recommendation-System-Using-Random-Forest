@@ -18,8 +18,3 @@ Another terminal `python Ap.py` to run python file
 Another terminal `node server.js` to run node js
 
 
-crop-recommendation
-    src
-        App.css
-        App.js
-        App.test.js
